@@ -1,6 +1,6 @@
-# 智能小车：FPGA 与树莓派本地模型版
+# 智能小车：FPGA 与树莓派
 
-YOLO（NCNN）与 VLM 图像模型在树莓派运行。本目录的启动入口无需电脑推理服务或云端 API 密钥。模型文件保留在 `raspberry_pi/best_ncnn_model` 与 `raspberry_pi/models`。
+YOLO（NCNN）与 VLM 图像模型均在树莓派上运行。模型文件保留在 `raspberry_pi/best_ncnn_model` 与 `raspberry_pi/models`。
 
 从 GitHub 获取完整工程时先安装 Git LFS，并下载实际模型及固件文件：
 
