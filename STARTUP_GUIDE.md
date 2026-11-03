@@ -1,6 +1,6 @@
 # 树莓派本地版启动
 
-FPGA 工程为 `ov5640_ddr3_hdmi.gprj`。建图保持任务四之前的原逻辑；避障与温检保留当前整合版本。当前固件为 `impl/pnr/ov5640_ddr3_hdmi.fs`，使用 place 3 / route 0，最差内部 setup 仍差 0.088 ns，尚未全部时序通过。已按用户要求结束本轮并暂停；具体状态见 `docs/BUILD_RESULTS.md`。
+FPGA 工程为 `ov5640_ddr3_hdmi.gprj`。建图保持任务四之前的原逻辑；避障与温检保留当前整合版本。当前固件为 `impl/pnr/ov5640_ddr3_hdmi.fs`。
 
 树莓派与 FPGA 的有线地址分别为 `192.168.10.1/24`、`192.168.10.2`；电脑/手机通过树莓派实际 Wi-Fi 地址访问网页。
 
