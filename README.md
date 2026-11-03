@@ -1,4 +1,4 @@
-# 智能小车：FPGA 与树莓派
+# 智行者——基于 FPGA 与树莓派的具身智能小车
 
 YOLO（NCNN）与 VLM 图像模型均在树莓派上运行。模型文件保留在 `raspberry_pi/best_ncnn_model` 与 `raspberry_pi/models`。
 
