@@ -1,0 +1,90 @@
+{
+  "hsv_ranges": {
+    "80": [
+      [
+        [
+          0,
+          95,
+          55
+        ],
+        [
+          10,
+          255,
+          255
+        ]
+      ],
+      [
+        [
+          170,
+          95,
+          55
+        ],
+        [
+          179,
+          255,
+          255
+        ]
+      ]
+    ],
+    "81": [
+      [
+        [
+          18,
+          90,
+          60
+        ],
+        [
+          35,
+          255,
+          255
+        ]
+      ]
+    ],
+    "82": [
+      [
+        [
+          36,
+          75,
+          45
+        ],
+        [
+          85,
+          255,
+          255
+        ]
+      ]
+    ],
+    "83": [
+      [
+        [
+          90,
+          85,
+          45
+        ],
+        [
+          130,
+          255,
+          255
+        ]
+      ]
+    ]
+  },
+  "min_area": 140,
+  "max_area_fraction": 0.35,
+  "min_radius": 7,
+  "min_circularity": 0.82,
+  "min_aspect": 0.8,
+  "max_aspect": 1.25,
+  "min_circle_fill": 0.78,
+  "min_solidity": 0.7,
+  "max_hole_fraction": 0.12,
+  "min_raw_circularity": 0.2,
+  "red_core_hue": 3,
+  "yellow_core_hue": 20,
+  "max_massage_solidity": 0.97,
+  "min_massage_perimeter_ratio": 1.08,
+  "min_massage_color_fraction": 0.75,
+  "retention_seconds": 1.2,
+  "max_gap_seconds": 0.6,
+  "confirm_frames": 3
+}

@@ -1,0 +1,4 @@
+# Preserve the exact source bytes used by the checked build.
+* -text
+*.gguf filter=lfs diff=lfs merge=lfs -text
+*.fs filter=lfs diff=lfs merge=lfs -text

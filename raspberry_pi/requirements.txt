@@ -1,0 +1,9 @@
+# Match the Ultralytics version recorded in the supplied NCNN metadata.
+ultralytics==8.4.159
+ncnn
+numpy>=1.26,<3
+opencv-python>=4.9,<5
+PyYAML>=6,<7
+lap>=0.5.12,<0.6
+scipy>=1.10,<2
+-r requirements-web.txt

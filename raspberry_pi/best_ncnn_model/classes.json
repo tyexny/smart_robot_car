@@ -1,0 +1,80 @@
+[
+  {
+    "class_id": 0,
+    "name": "person",
+    "coco80_id": 0,
+    "coco_category_id": 1
+  },
+  {
+    "class_id": 1,
+    "name": "backpack",
+    "coco80_id": 24,
+    "coco_category_id": 27
+  },
+  {
+    "class_id": 2,
+    "name": "umbrella",
+    "coco80_id": 25,
+    "coco_category_id": 28
+  },
+  {
+    "class_id": 3,
+    "name": "handbag",
+    "coco80_id": 26,
+    "coco_category_id": 31
+  },
+  {
+    "class_id": 4,
+    "name": "sports ball",
+    "coco80_id": 32,
+    "coco_category_id": 37
+  },
+  {
+    "class_id": 5,
+    "name": "bottle",
+    "coco80_id": 39,
+    "coco_category_id": 44
+  },
+  {
+    "class_id": 6,
+    "name": "cup",
+    "coco80_id": 41,
+    "coco_category_id": 47
+  },
+  {
+    "class_id": 7,
+    "name": "banana",
+    "coco80_id": 46,
+    "coco_category_id": 52
+  },
+  {
+    "class_id": 8,
+    "name": "apple",
+    "coco80_id": 47,
+    "coco_category_id": 53
+  },
+  {
+    "class_id": 9,
+    "name": "chair",
+    "coco80_id": 56,
+    "coco_category_id": 62
+  },
+  {
+    "class_id": 10,
+    "name": "mouse",
+    "coco80_id": 64,
+    "coco_category_id": 74
+  },
+  {
+    "class_id": 11,
+    "name": "cell phone",
+    "coco80_id": 67,
+    "coco_category_id": 77
+  },
+  {
+    "class_id": 12,
+    "name": "book",
+    "coco80_id": 73,
+    "coco_category_id": 84
+  }
+]
